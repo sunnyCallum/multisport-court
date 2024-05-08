@@ -1,1 +1,1 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+Campaign to redevelop the swimming pool in St. Andrews Park into a multiuse sports court
